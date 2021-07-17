@@ -1,4 +1,4 @@
 linija izmjena
-nova linija
+nova linija linija master
 no0va
 jos jedna nova linija
