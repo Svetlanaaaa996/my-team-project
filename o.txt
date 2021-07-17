@@ -1,3 +1,4 @@
 linija
 nova linija
 no0va
+jos jedna nova linija
