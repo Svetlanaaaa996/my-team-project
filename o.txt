@@ -2,3 +2,4 @@ linija izmjena
 nova linija linija master
 no0va
 jos jedna nova linija
+nova linija
