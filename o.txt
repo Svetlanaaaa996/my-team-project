@@ -1,5 +1,5 @@
 linija izmjena
-nova linija linija master
+nova linija linija master kreiranje merge konflikta
 no0va
-jos jedna 
+jos jedna nova linija test linija 
 nova linija
